@@ -26,25 +26,3 @@ Welcome to my C++ repository! This collection contains various projects, simulat
 * **Compiler:** GCC / G++ (MinGW for Windows, Clang for macOS, or default for Linux)
 * **Environment:** Works on Windows, Linux, and macOS.
 
-### 🚀 How to Run
-
-1. **Navigate to a specific project folder:**
-```bash
-cd DicePoker
-2. **Compile the code:**
-Kompilacja
-Bash
-g++ *.cpp -o project_output
-Uruchomienie
-Bash
-./project_output
-🧠 Kluczowe cele nauki
-Podczas realizacji tych projektów zgłębiłem i zaimplementowałem następujące zagadnienia:
-
-Ręczne zarządzanie pamięcią: Praktyczne wykorzystanie wskaźników oraz dynamiczna alokacja pamięci.
-
-Programowanie obiektowe (OOP): Implementacja klas, wykorzystanie dziedziczenia oraz hermetyzacja danych.
-
-Projektowanie algorytmów: Tworzenie algorytmów sortowania, wyszukiwania oraz zaawansowanej logiki matematycznej.
-
-Obsługa plików: Odczyt i zapis danych do plików zewnętrznych (np. obsługa plików z napisami).
